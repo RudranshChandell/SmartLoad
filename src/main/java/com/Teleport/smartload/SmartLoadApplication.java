@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmartloadApplication {
+public class SmartLoadApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmartloadApplication.class, args);
+		SpringApplication.run(SmartLoadApplication.class, args);
 	}
 
 }
