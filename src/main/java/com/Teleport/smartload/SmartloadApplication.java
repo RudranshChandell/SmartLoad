@@ -1,0 +1,13 @@
+package com.Teleport.smartload;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SmartloadApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SmartloadApplication.class, args);
+	}
+
+}
